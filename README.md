@@ -23,5 +23,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TrupeshMandani&icon=0&color=0)](https://visitcount.itsvg.in)
-![github-user-contribution](https://github.com/user-attachments/assets/a6b454bc-ec49-4bc6-82f7-c159be2247e6)
+
+![github-user-contribution-2](https://github.com/user-attachments/assets/4480676e-834c-4241-8c38-c47f0c47c2d9)
 
